@@ -3,7 +3,7 @@
     <!-- Header with store name and tagline -->
     <header class="store-header">
       <h1>Algonquin Pet Store</h1>
-      <p class="tagline">Meal for Pets, Lessons for Students!</p>
+      <p class="tagline">Meals for Pets, Lessons for Students!</p>
     </header>
 
     <!-- Animal images in the header -->
